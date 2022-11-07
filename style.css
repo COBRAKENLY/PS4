@@ -1,9 +1,9 @@
 html, body {
 background-color: #fdfdfd00;
 background-image: url('background.jpg');
-background-size: 90%;
+background-size: 100%;
 background-repeat: no-repeat;
-color: rgb(0, 0, 0);
+color: rgb(255, 255, 0);
 text-align: center;
 margin: 0px;
 overflow: hidden;
@@ -43,7 +43,7 @@ left: 50%;
 
 font-size: 45px;
 font-family: sans-serif;
-color: #b8b8b8;
+color: #fffb00;
 
 transform: translate(-50%, -50%);
 }

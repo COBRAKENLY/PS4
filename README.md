@@ -1,1 +1,1 @@
-Con este repositorio se libera nuestro PS4 Gold Hen 2.2.5b7
+Con este repositorio se libera nuestro PS4 GoldHEN 2.3

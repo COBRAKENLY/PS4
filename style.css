@@ -15,7 +15,7 @@ left: 50%;
 top: 50%;
 margin: -75px 0 0 -75px;
 
-border: 10px solid #1f1e1e;
+border: 10px solid #1f1e1e00;
 border-radius: 50%;
 border-top: 10px solid #0a35f7;
 border-left: 10px solid #0a35f7;
@@ -50,5 +50,5 @@ transform: translate(-50%, -50%);
 
 .j {
 font-size: 15px;
-color: #2F3335;
+color: #2f333500;
 }
